@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+// TODO: Set your project path
+let path = ""
+SwiftFileProcessor(path: path).process()
