@@ -1,5 +1,8 @@
 # Swift Event Parser
 
+## Article on Medium
+[Strolling the Meta Shores — A Swift Syntax Journey](https://yoloabdo.medium.com/strolling-the-meta-shores-a-swift-syntax-journey-5cc5bd92322f)
+
 ## Overview
 This project provides a command-line utility for parsing Swift source files to extract event tracking data and organize it into an Excel sheet. Designed to streamline the process of managing analytics events within a Swift-based iOS project, this tool scans through your project's Swift files, identifies event tracking function calls, and compiles the extracted data into a structured Excel sheet for easy review and management.
 
